@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(75, 75, 78, 0.5);
+}
+
+body img {
+    width: 25%;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -100px;
+    border: 10px;
+    border-style:solid;
+    border-color: rgb(13, 13, 150);
+}
+
+h1 {
+   position: relative;
+   right: -100px;
+   bottom: -100px;
+   color:rgb(13, 13, 150) ;
+
+}
+
+p {
+    color: rgb(11, 11, 11);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    right: -125px;
+    bottom: -100px;
+ }
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(93, 3, 3);
+    position: relative;
+    top: -220px;
+ }
+
+ #Bruce {
+    position: relative;
+    right: -580px;
+    top: -120px;
+ }

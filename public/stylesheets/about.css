@@ -1,0 +1,31 @@
+
+body {
+    background-color: rgba(75, 75, 78, 0.5);
+}
+
+body img {
+    width: 25%;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -100px;
+    border: 10px;
+    border-style:solid;
+    border-color: rgb(13, 13, 150);
+}
+
+h1 {
+   position: relative;
+   right: -635px;
+   color:rgb(13, 13, 150) ;
+
+}
+
+p {
+    color: rgb(13, 13, 150);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(93, 3, 3);
+ }
